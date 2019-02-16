@@ -1,0 +1,14 @@
+<resources>
+        <string name="app_name">Obliczacz</string>
+        <string name="hello_world">Hello world!</string>
+        <string name="menu_settings">Settings</string>
+        <string name="title_activity_obliczacz">Obliczacz</string>
+        <string name="white">#FFFFFF</string>
+        <string name="get_points">Podaj punkty:</string>
+        <string name="count">Oblicz</string>
+        <string name="th">#5A92CE</string>
+        <string name="write_points">Żono podaj punkty</string>
+        <string name="percentage">Procenty</string>
+        <string name="points">Punkty</string>
+        <string name="evaluations">Oceny</string>
+</resources>
